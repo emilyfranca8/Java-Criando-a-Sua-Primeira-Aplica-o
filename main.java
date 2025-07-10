@@ -18,5 +18,9 @@ public class main{
                 Ano de lançamento
                 """ + anoDeLançamento;
         System.out.println(sinopse);
+
+        int classificação = (int) (media /2);
+        System.out.println(classificação);
+
     }
 }
