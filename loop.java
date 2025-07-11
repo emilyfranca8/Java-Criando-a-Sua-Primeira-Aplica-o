@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Loop {
+public class loop {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
         double avaliação = 0;
@@ -13,7 +13,6 @@ public class Loop {
         }
 
         System.out.println("Média de avaliações" + mediaAvaliação/3);
-
 
     }
 }
